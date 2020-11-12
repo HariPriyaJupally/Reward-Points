@@ -1,0 +1,248 @@
+[
+  {
+    "name": "John",
+    "custid": 1,
+    "amt": 50,
+    "transactionDt": "11-12-2020"
+  },
+  {
+    "name": "John",
+    "custid": 1,
+    "amt": 120,
+    "transactionDt": "10-10-2020"
+  },
+  {
+    "name": "John",
+    "custid": 1,
+    "amt": 390,
+    "transactionDt": "09-21-2019"
+  },
+  {
+    "name": "John",
+    "custid": 1,
+    "amt": 160,
+    "transactionDt": "10-10-2019"
+  },
+  {
+    "name": "John",
+    "custid": 1,
+    "amt": 380,
+    "transactionDt": "09-21-2020"
+  },
+  {
+    "name": "Peter",
+    "custid": 2,
+    "amt": 132,
+    "transactionDt": "01-11-2020"
+  },
+  {
+    "name": "Peter",
+    "custid": 2,
+    "amt": 222,
+    "transactionDt": "09-10-2019"
+  },
+  {
+    "name": "Peter",
+    "custid": 2,
+    "amt": 112,
+    "transactionDt": "09-18-2020"
+  },
+  {
+    "name": "Peter",
+    "custid": 2,
+    "amt": 157,
+    "transactionDt": "01-06-2018"
+  },
+  {
+    "name": "Peter",
+    "custid": 2,
+    "amt": 333,
+    "transactionDt": "11-10-2019"
+  },
+  {
+    "name": "Peter",
+    "custid": 2,
+    "amt": 140,
+    "transactionDt": "09-18-2018"
+  },
+  {
+    "name": "Steve",
+    "custid": 3,
+    "amt": 198,
+    "transactionDt": "07-11-2019"
+  },
+  {
+    "name": "Steve",
+    "custid": 3,
+    "amt": 278,
+    "transactionDt": "10-27-2019"
+  },
+  {
+    "name": "Steve",
+    "custid": 3,
+    "amt": 322,
+    "transactionDt": "07-18-2010"
+  },
+  {
+    "name": "Steve",
+    "custid": 3,
+    "amt": 3220,
+    "transactionDt": "09-19-2010"
+  },
+  {
+    "name": "Blippi",
+    "custid": 4,
+    "amt": 121,
+    "transactionDt": "04-11-2020"
+  },
+  {
+    "name": "Blippi",
+    "custid": 4,
+    "amt": 323,
+    "transactionDt": "10-16-2020"
+  },
+  {
+    "name": "Blippi",
+    "custid": 4,
+    "amt": 145,
+    "transactionDt": "09-29-2020"
+  },
+  {
+    "name": "Blippi",
+    "custid": 4,
+    "amt": 1210,
+    "transactionDt": "04-10-2020"
+  },
+  {
+    "name": "Blippi",
+    "custid": 4,
+    "amt": 3230,
+    "transactionDt": "10-16-2016"
+  },
+  {
+    "name": "Blippi",
+    "custid": 4,
+    "amt": 150,
+    "transactionDt": "09-29-2016"
+  },
+  {
+    "name": "Blippi",
+    "custid": 4,
+    "amt": 120,
+    "transactionDt": "04-11-2019"
+  },
+  {
+    "name": "Blippi",
+    "custid": 4,
+    "amt": 320,
+    "transactionDt": "10-16-2019"
+  },
+  {
+    "name": "Blippi",
+    "custid": 4,
+    "amt": 90,
+    "transactionDt": "09-29-2019"
+  },
+  {
+    "name": "Sara",
+    "custid": 5,
+    "amt": 267,
+    "transactionDt": "02-11-2020"
+  },
+  {
+    "name": "Sara",
+    "custid": 5,
+    "amt": 345,
+    "transactionDt": "12-10-2020"
+  },
+  {
+    "name": "Sara",
+    "custid": 5,
+    "amt": 528,
+    "transactionDt": "10-09-2020"
+  },
+  {
+    "name": "Sara",
+    "custid": 5,
+    "amt": 500,
+    "transactionDt": "12-10-2019"
+  },
+  {
+    "name": "Sara",
+    "custid": 5,
+    "amt": 50,
+    "transactionDt": "10-09-2019"
+  },
+  {
+    "name": "Idea",
+    "custid": 6,
+    "amt": 523,
+    "transactionDt": "03-11-2020"
+  },
+  {
+    "name": "Idea",
+    "custid": 6,
+    "amt": 291,
+    "transactionDt": "11-10-2020"
+  },
+  {
+    "name": "Idea",
+    "custid": 6,
+    "amt": 389,
+    "transactionDt": "11-09-2020"
+  },
+  {
+    "name": "Maggie",
+    "custid": 7,
+    "amt": 721,
+    "transactionDt": "11-11-2020"
+  },
+  {
+    "name": "Maggie",
+    "custid": 7,
+    "amt": 271,
+    "transactionDt": "10-10-2020"
+  },
+  {
+    "name": "Maggie",
+    "custid": 7,
+    "amt": 756,
+    "transactionDt": "11-09-2020"
+  },
+  {
+    "name": "Rack",
+    "custid": 8,
+    "amt": 436,
+    "transactionDt": "05-11-2020"
+  },
+  {
+    "name": "Rack",
+    "custid": 8,
+    "amt": 658,
+    "transactionDt": "11-10-2020"
+  },
+  {
+    "name": "Rack",
+    "custid": 8,
+    "amt": 673,
+    "transactionDt": "11-09-2020"
+  },
+  {
+    "name": "Jessy",
+    "custid": 9,
+    "amt": 563,
+    "transactionDt": "02-11-2020"
+  },
+  {
+    "name": "Jessy",
+    "custid": 9,
+    "amt": 876,
+    "transactionDt": "09-10-2020"
+  },
+  {
+    "name": "Tom",
+    "custid": 10,
+    "amt": 657,
+    "transactionDt": "03-11-2020"
+  }
+]
