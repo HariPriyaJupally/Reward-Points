@@ -24,6 +24,8 @@
 
 - npm start
 
+- Automatically opens http://localhost:3000
+
 # Functionality of the application
 
 - Select a user from the drop-down
@@ -32,7 +34,11 @@
 
 - Click "GET USER REWARDS" button
 
+- You can see reward points for selected 3 months on screen with a small description on down where it says from which month
+  (start date) to which month (end date).
+
 - Click the toggle button which says "View all transactions of the selected user", this gives all the transactions made by the user.
+  [Note: Not just the reward period selected.]
   To get a clear understanding of what all the transactions made by the selected user.
 
 - Click "CLEAR" button, which clears the screen so we can choose an other user.
